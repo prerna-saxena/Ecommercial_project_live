@@ -1,0 +1,118 @@
+[
+    {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 999.99,
+    "stock": 50,
+    "description": "POWERFUL LAPTOP WITH A GOOD CORE I5 PROCESSOR , 8GB RAM, 256GB SSD AND  A 14-INCH FHD DISPLAY.",
+
+    "image": "../images/lapi.png"
+},
+{
+        
+"id": 2,
+"name": "Smartphone",
+"category": "Mobiles",
+"brand": "TechGadget",
+"price": 499.99,
+"stock": 100,
+"image": "../image/iphone.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+        
+},
+{
+
+    "id": 3,
+"name": "wireless-headphones",
+"category": "Audio",
+"brand": "Soundbeats",
+"price": 149.99,
+"stock": 100,
+"image": "../image/iphone.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+{
+
+    "id": 4,
+"name": "watches",
+"category": "wearables",
+"brand": "Soundbeats",
+"price": 149.99,
+"stock": 100,
+"image": "../image/iphone.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+{
+
+    "id": 5,
+"name": "Speakers",
+"category": "Speakers",
+"brand": "Speakers",
+"price": 149.99,
+"stock": 100,
+"image": "../image/Speaker.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+
+{
+
+    "id": 5,
+"name": "television",
+"category": "video",
+"brand": "Samsung",
+"price": 199.99,
+"stock": 20,
+"image": "../image/Samsung.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+{
+
+    "id": 6,
+"name": "TV",
+"category": "video",
+"brand": "TV",
+"price": 499.99,
+"stock": 20,
+"image": "../image/TV.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+{
+
+    "id": 6,
+"name": "TV",
+"category": "video",
+"brand": "TV",
+"price": 499.99,
+"stock": 20,
+"image": "../image/TV.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+{
+
+    "id": 6,
+"name": "COMPUTER",
+"category": "video",
+"brand": "COMPUTER",
+"price": 599.99,
+"stock": 20,
+"image": "../image/TV.png",
+"description": "FEATURE - RICH SMARTPHONE WITH A 6.2 - INCH SCREEN 12MP DUAL CAMERA , 128GB STORAGE , AND A 400MAH BATTERY."
+     
+
+},
+
+]
